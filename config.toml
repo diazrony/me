@@ -1,0 +1,45 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Rony Díaz'
+theme = "hugo-sustain"
+##########################################
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "img/avatar_diazrony-2.jpg"
+  author = "Rony Diaz"
+  description = "Soy un Desarrollador de Software apasionado por vivir experiencias únicas todos los días.🖥️🌋🔝"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []
+  custom_js  = []
+
+[params.social]
+  Github        = "diazrony"
+  Email         = "ronydiaz99@gmail.com"
+  Twitter       = "diazrony_"
+  LinkedIn      = "diazrony"
+  Medium        = "diazrony"
+  Telegram      = "525540013477"
+  GitLab        = "diazrony"
+## Main Menu
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
+[[menu.main]]
+  name = "resume"
+  identifier = "resume"
+  weight = 300
+  url = "https://diazrony.github.io/cv/"
