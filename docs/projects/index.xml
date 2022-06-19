@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Rony Díaz</title>
-    <link>https://diazrony.github.io/me/projects/</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Rony Díaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="https://diazrony.github.io/me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate><atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lo mejor del mundo</title>
-      <link>https://diazrony.github.io/me/projects/test/</link>
+      <link>/projects/test/</link>
       <pubDate>Wed, 15 Jun 2022 21:34:53 -0600</pubDate>
       
-      <guid>https://diazrony.github.io/me/projects/test/</guid>
+      <guid>/projects/test/</guid>
       <description></description>
     </item>
     

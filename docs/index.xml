@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rony Díaz</title>
-    <link>https://diazrony.github.io/me/</link>
+    <link>/</link>
     <description>Recent content on Rony Díaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 21:34:53 -0600</lastBuildDate><atom:link href="https://diazrony.github.io/me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Jun 2022 21:34:53 -0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lo mejor del mundo</title>
-      <link>https://diazrony.github.io/me/blog/prueba-post/</link>
+      <link>/blog/prueba-post/</link>
       <pubDate>Wed, 15 Jun 2022 21:34:53 -0600</pubDate>
       
-      <guid>https://diazrony.github.io/me/blog/prueba-post/</guid>
+      <guid>/blog/prueba-post/</guid>
       <description>I&amp;rsquo;m Rony Díaz, a Software Engineer.
 Genial</description>
     </item>
     
     <item>
       <title>Lo mejor del mundo</title>
-      <link>https://diazrony.github.io/me/projects/test/</link>
+      <link>/projects/test/</link>
       <pubDate>Wed, 15 Jun 2022 21:34:53 -0600</pubDate>
       
-      <guid>https://diazrony.github.io/me/projects/test/</guid>
+      <guid>/projects/test/</guid>
       <description></description>
     </item>
     

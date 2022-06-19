@@ -1,4 +1,4 @@
-baseURL = 'https://diazrony.github.io/me/'
+baseURL = ''
 languageCode = 'en-us'
 title = 'Rony Díaz'
 theme = "hugo-sustain"
